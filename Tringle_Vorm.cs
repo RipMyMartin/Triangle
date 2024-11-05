@@ -17,6 +17,7 @@ namespace Tringle
             triangle = new Triangle(3, 4, 5);
             DisplayTriangleInfo();
         }
+        //Testig
 
         private void InitializeCustomComponents()
         {

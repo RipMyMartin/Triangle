@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\Tringlev2\\Tringle.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\Triangle\\Tringle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\Tringlev2\\Tringle.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\Triangle\\Tringle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\Tringlev2\\Tringle.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\Triangle\\Tringle.csproj",
         "projectName": "Tringle",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Tringlev2\\Tringle.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\Triangle\\Tringle.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\Tringlev2\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\Triangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
